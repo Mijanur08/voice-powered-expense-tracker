@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/voice-powered-expense-tracker/static/css/main.608c3b09.css",
+    "main.js": "/voice-powered-expense-tracker/static/js/main.15938c60.js",
+    "static/media/background2.jpg": "/voice-powered-expense-tracker/static/media/background2.55bc7b97aba7f79920b4.jpg",
+    "index.html": "/voice-powered-expense-tracker/index.html",
+    "main.608c3b09.css.map": "/voice-powered-expense-tracker/static/css/main.608c3b09.css.map",
+    "main.15938c60.js.map": "/voice-powered-expense-tracker/static/js/main.15938c60.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.608c3b09.css",
+    "static/js/main.15938c60.js"
+  ]
+}
